@@ -38,9 +38,9 @@ body {
 }
 
 .next-button {
-    left: 10px;
+    right: 10px;
 }
 
 .previous-button {
-    right: 10px;
+    left: 10px;
 }
